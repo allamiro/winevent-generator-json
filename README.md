@@ -7,3 +7,8 @@ Windows Event Generator is a tool  used  to create, simulate, or generate Window
 * Real-time log generation: 
 * Scheduled log generation:
 * Export of logs:
+
+
+
+## References :
+[1] https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4720
